@@ -6,8 +6,8 @@ A modern and responsive restaurant website built using HTML and CSS. This projec
 
 ## 🚀 Live Demo
 
-[Click here to view the live site]((https://keshavjangid124.github.io/Foodsite_Demo/))  
-*(Replace with your actual GitHub Pages link)*
+[Click here to view the live site] 
+((https://keshavjangid124.github.io/Foodsite_Demo/)) 
 
 ---
 
